@@ -1,0 +1,8 @@
+body { background-color: rgb(96, 102, 224);}
+h1 {color: azure;}
+a{color: azure;}
+#middle {color: rgb(96, 102, 224);}
+table, td {
+    border: 1px solid black;
+font-style: italic;}
+p{font-weight: bold;}
